@@ -4,3 +4,6 @@ This project is in response to the growing demand for accurate information about
 The following diagram depicts the whole idea and relationship of the halal product tracking system. All four of the tables are connected on a one-to-one relationship except for the relationship of one-to-many between JAKIM and Certificate tables since each staff from JAKIM can make and approved multiple certificates for companies/products. 
 ![Screenshot 2024-01-28 223840](https://github.com/DrazHunt/HalalFoodTrackingSystem/assets/136727728/f3242324-9bb6-4a9d-90c1-74a34a4160cb)
 
+# Web Application Database
+For creating a Web Application database, we use HTML and pass the values to PHP files for it to process the command. For the local database, we are using Laragon. Then, we deploy our database and website using 000webhost in laragon as well.
+![image](https://github.com/DrazHunt/HalalFoodTrackingSystem/assets/136727728/fc05eb03-4bbb-4da4-a9db-e7004cf11529)
