@@ -6,4 +6,5 @@ The following diagram depicts the whole idea and relationship of the halal produ
 
 # Web Application Database
 For creating a Web Application database, we use HTML and pass the values to PHP files for it to process the command. For the local database, we are using Laragon. Then, we deploy our database and website using 000webhost in laragon as well.
+
 ![image](https://github.com/DrazHunt/HalalFoodTrackingSystem/assets/136727728/fc05eb03-4bbb-4da4-a9db-e7004cf11529)
