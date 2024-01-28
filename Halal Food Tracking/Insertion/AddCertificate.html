@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Add Certificate</title>
+  </head>
+
+  <body>
+    <form action="AddCertificate.php" method="POST">
+      <table>
+        <tr>
+          <td>Certificate ID:</td>
+          <td><input type="number" name="Certificate_id_input" required /></td>
+        </tr>
+        <tr>
+          <td>Certificate Name:</td>
+          <td><input type="text" name="Certificate_name_input" /></td>
+        </tr>
+        <tr>
+          <td>Staff ID:</td>
+          <td><input type="text" name="staff_id_input" /></td>
+        </tr>
+        <tr>
+          <td>Issue Date:</td>
+          <td><input type="text" name="issue_date_input" /></td>
+        </tr>
+        <tr>
+            <td>Expiry Date:</td>
+            <td><input type="text" name="expiry_date_input" /></td>
+          </tr>
+        <tr>
+          <td><input type="submit" value="Submit" name="submit" /></td>
+        </tr>
+      </table>
+    </form>
+  </body>
+</html>
